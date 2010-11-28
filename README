@@ -1,1 +1,1 @@
-Gets latitude/longitude information for a given address. Uses the Google Maps API. 
+Gets latitude/longitude information for a given address. Uses the Google Geocoding API. 
